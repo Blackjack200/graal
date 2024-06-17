@@ -21,7 +21,7 @@ You can use them from your `pom.xml` file as:
 <dependency>
     <groupId>org.graalvm.truffle</groupId>
     <artifactId>truffle-dsl-processor</artifactId>
-    <version>22.1.0<</version>
+    <version>22.1.0</version>
     <scope>provided</scope>
 </dependency>
 ```
